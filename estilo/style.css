@@ -15,8 +15,8 @@
     --cor5: #063d11;
 
     --fonte-padrao: Arial, Verdana, Helvetica, Sans-serif;
-    --fonte-destaque:'Bebas Neue', cursive;
-    --fonte-android: 'Android',cursive;
+    --fonte-destaque:'Bebas Neue', Cursive;
+    --fonte-android: 'Android', Cursive;
 }
 *{
     margin: 0;
